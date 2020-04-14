@@ -1,2 +1,2 @@
-# lest
-Minimalist Unit Testing library (Just practicing)
+# Lest
+Minimalist Unit Testing library using Node.
